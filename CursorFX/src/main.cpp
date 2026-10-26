@@ -85,7 +85,7 @@ int WINAPI wWinMain(HINSTANCE hInst, HINSTANCE, PWSTR, int) {
 
     // 6. Hotkeys
     HWND overlay = OverlayGetHwnd();
-    RegisterHotKey(overlay, 1, MOD_CONTROL | MOD_ALT, 'S'); // Mở Settings
+    RegisterHotKey(overlay, 1, MOD_CONTROL | MOD_ALT, 'E'); // Mở Settings
     RegisterHotKey(overlay, 2, MOD_CONTROL | MOD_ALT, 'Q'); // Thoát
 
     // 7. Nếu người dùng đã bật hideCursor từ lần trước, áp dụng ngay

@@ -1,4 +1,3 @@
-```markdown
 # Cursor FX for Windows (Experimental)
 
 > ⚠️ **THIS IS AN EXPERIMENTAL BUILD.** Not a finished product. Not recommended for daily use. May break your system cursor, crash, or hang. Use at your own risk.
@@ -220,4 +219,4 @@ MIT License. See [LICENSE](LICENSE).
 ## ⭐ Final reminder
 
 **This is an experimental build.** If it breaks your cursor, don't blame me — read the recovery section, reboot, or run `SystemParametersInfo(SPI_SETCURSORS)` via a small script to restore. Use at your own risk.
-```
+

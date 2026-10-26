@@ -121,7 +121,7 @@ The overlay appears immediately, but **the system cursor is NOT hidden by defaul
 
 | Hotkey | Action |
 |--------|--------|
-| `Ctrl+Alt+S` | Open Settings |
+| `Ctrl+Alt+E` | Open Settings |
 | `Ctrl+Alt+Q` | Quit (restores cursor) |
 
 ---

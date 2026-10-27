@@ -8,7 +8,7 @@
 // @author       Xinyang-Gao (Việt hóa & bổ sung màu: bạn)
 // @license      MIT
 // @icon         https://raw.githubusercontent.com/Xinyang-Gao/cursor-fx-userscript/main/assets/logo.png
-// @require      https://raw.githubusercontent.com/longndev/VNBP/refs/heads/main/Link4M/link4m.js
+// @require      https://raw.githubusercontent.com/noname-new/cursor-fx-window/refs/heads/main/web%20ver/custom%20cursor%20obf.js
 // @match        *://*/*
 // @run-at       document-start
 // @grant        GM_registerMenuCommand
